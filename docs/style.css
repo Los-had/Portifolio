@@ -52,7 +52,7 @@ footer{
     font-size: 25px;
     color: #000000;
     background-color: #ffffff;
-    border-radius: 15px 15px;
+    /*border-radius: 15px 15px;*/
     text-shadow: 1px 1px lightslategray;
     margin: auto;
     padding: 10px;
