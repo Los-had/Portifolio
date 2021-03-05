@@ -21,3 +21,10 @@ h2{
     font-family: consolas;
     text-shadow: 1px 1px lightslategray;
 }
+a{
+    text-decoration: none;
+    color: rgb(34, 34, 238);
+}
+a:hover{
+    text-decoration: underline;
+}
