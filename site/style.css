@@ -47,12 +47,13 @@ footer{
     width: 600px;
     text-align: center;
     font-family: consolas;
-    font-size: 30px;
+    font-size: 25px;
     color: #000000;
     background-color: #ffffff;
     border-radius: 15px 15px;
     text-shadow: 2px 2px lightslategray;
     margin: auto;
+    padding: 10px;
 }
 footer a{
     text-decoration: none;
