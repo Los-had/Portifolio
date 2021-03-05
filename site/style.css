@@ -44,12 +44,12 @@ footer{
     text-align: center;
     font-family: consolas;
     font-size: 30px;
-    color: #ffffff;
-    background-color: blue;
+    color: #000000;
+    background-color: #ffffff;
     border-radius: 15px 15px;
-    text-shadow: 3px 3px lightslategray;
+    text-shadow: 2px 2px lightslategray;
 }
 footer a{
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
 }
