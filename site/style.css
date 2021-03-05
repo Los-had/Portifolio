@@ -62,3 +62,11 @@ footer a{
     text-decoration: none;
     color: #000000;
 }
+main p.midte{
+    text-align: center;
+}
+button.voltar{
+    color: #ffffff;
+    background-color: rgba(110, 110, 199, 0.719);
+    box-shadow: 5px 5px 15px lightslategray;
+}
