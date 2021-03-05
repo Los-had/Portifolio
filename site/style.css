@@ -39,3 +39,17 @@ a:hover{
 p{
     text-align: justify;
 }
+
+footer{
+    text-align: center;
+    font-family: consolas;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 15px 15px;
+    text-shadow: 3px 3px lightslategray;
+}
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
