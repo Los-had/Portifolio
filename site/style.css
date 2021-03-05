@@ -16,3 +16,8 @@ body{
 h1{
     text-shadow: 2px 2px lightslategray;
 }
+h2{
+    font-size: 20px;
+    font-family: consolas;
+    text-shadow: 1px 1px lightslategray;
+}
