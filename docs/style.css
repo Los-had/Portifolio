@@ -57,6 +57,7 @@ footer{
     margin: auto;
     padding: 10px;
     box-shadow: 5px 5px 15px rgba(99, 98, 98, 0.63);
+    margin: auto
 }
 footer a{
     text-decoration: none;
