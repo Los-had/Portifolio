@@ -8,3 +8,4 @@ else {
     document.writeln('')
 }
 
+// tem muitos erros por enquanto mais vou resolver depois :) 
