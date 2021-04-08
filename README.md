@@ -9,8 +9,9 @@
 
  # O que falta adicionar
 
+ * interatividade com javascript porque o site está nada interativo
  * talvez uma biblioteca ou framework
- * mais coisas no css
+ * mais coisas no css ou seja um estilo melhor
 
  # links
  
