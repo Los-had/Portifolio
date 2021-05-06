@@ -75,4 +75,28 @@ button.voltar{
 
 h1#f04{
     font-family: 'Press Start 2P', consolas, Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+div.errorcontent{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: #ffffff;
+    /*text-align: center;*/
+}
+
+div.errorcontent a.ltb{
+    text-decoration: none;
+    color: black;
+}
+  
+div.errorcontent a.ltb:hover{
+    text-shadow: 5px 5px lightgray;
+    padding: 3px 3px;
+}
+
+div.errorcontent p#ctoe{
+    text-align: center;
 }
